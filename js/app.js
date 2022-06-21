@@ -56,6 +56,11 @@ var app = new Framework7({
     	url: 'perfil.html',
     	name: 'perfil',
   		},
+		{
+		path: '/producto/',
+    	url: 'producto.html',
+    	name: 'producto',
+  		},
 		
 	],
 	dialog: {
