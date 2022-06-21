@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&display=swap');
+:root{
+ --f7-theme-color:#92602E;
+ --f7-navbar-bg-color: #92602E;
+ --f7-navbar-link-color:#fff;
+ --f7-navbar-text-color:#fff;
+ --f7-bars-bg-color:#92602E;
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+#app{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+#info-panel{
+	background-color: #92602E;
+	color: #fff;
+	padding: 40px 30px;
+}
+#info-panel img{
+	border-radius: 100%;
+}
+.title{
+	font-family: 'Amita', cursive;
+	font-weight: bold;
+	font-size: 32px;
+}
+.block-title{
+	font-family: 'Amita', cursive;
+	font-weight: bold;
+	color: #000;
+	font-size: 18px;
+}
+.panel i{
+	color: #52361A;
+}
+.panel .list{
+	font-size: 14px;
+}
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	padding: 5px 0;
+	border-radius: 5%;
+}
+#checkout .card-content{
+	padding: 10px 5px;
+}
+#checkout .titulo{
+	font-weight: 600;
+	font-size: 16px;
+}
+hr{
+	border-top: 1px solid #eee;
+	margin: 20px 0;
+}
+#modal-login .page{
+	background-image: url("../img/Background.jpg");
+	padding: 15px;
+}
+#modal-login .page-content{
+	border-radius: 15px;
+}
